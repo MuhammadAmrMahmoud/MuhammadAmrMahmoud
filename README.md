@@ -1,4 +1,5 @@
-### Hi there, How are you doing? 👋
+### Hi there👋
+##  I'm Muhammad Amr, A software Engineer graduated from Faculty of Computer Science at Al Shorouk Academy
 
 <!--
 **MuhammadAmrMahmoud/MuhammadAmrMahmoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
