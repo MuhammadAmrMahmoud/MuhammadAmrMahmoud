@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad amr</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Amr</h1>
 <h3 align="center">A passionate Junior Software Engineer</h3>
 
 - I’m currently a **Back-End Enginner**
