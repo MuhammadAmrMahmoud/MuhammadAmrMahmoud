@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad amr</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working with **Golang - Gorm - gRPC**
+- 🔭 I’m currently working with **Golang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
